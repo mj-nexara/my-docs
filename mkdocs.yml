@@ -1,0 +1,8 @@
+site_name: MJ-NEXARA Docs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Mission: mission.md
+theme:
+  name: material
+
