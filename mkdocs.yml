@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Mission: mission.md
+  - Etherscan: etherscan.md
 theme:
   name: material
 
