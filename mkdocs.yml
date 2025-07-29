@@ -3,9 +3,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Mission: mission.md
-  - Employment
-      - Etherscan: etherscan.md
-      - UNV: unv.md
+  - Employment:
+      - Etherscan: Employment/etherscan.md
+      - UNV: Employment/unv.md
 theme:
   name: material
 
